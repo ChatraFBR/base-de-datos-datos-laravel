@@ -13,7 +13,7 @@ This application allows users to upload files, which can be viewed either by the
 
 1. Clone the repository:
     ```bash
-    git clone git@github.com:davidrivasrodriguez/dataBase-Data-Laravel.git
+    git@github.com:ChatraFBR/base-de-datos-datos-laravel.git
     ```
 2. Navigate to the project directory:
     ```bash
